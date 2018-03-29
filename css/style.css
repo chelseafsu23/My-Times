@@ -1,0 +1,11 @@
+body {font-family: Helvetica
+  sans-serif;
+}
+.header { font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;}
+  .logoname { color:aquamarine;
+  }
+.menu { color:black;
+  position: inline-block;
+display: flex;}
